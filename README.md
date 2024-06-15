@@ -1,1 +1,5 @@
-# Advancements-in-PCOS-Detection-A-Multi-Framework-Evaluation-and-Meta-Learner-Approach-
+# PCOS-Detection
+PCOS Detection using DeepLearning
+If you need more details just download the Powerpoint
+
+# Thank you 🤗✨
