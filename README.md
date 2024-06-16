@@ -2,16 +2,22 @@
 PCOS Detection using DeepLearning
 
 Overview
+
 Polycystic Ovary Syndrome (PCOS) is a common endocrine disorder affecting women of reproductive age. Early and accurate detection of PCOS is crucial for effective management and treatment. This project explores advancements in PCOS detection by employing a multi-framework evaluation and a meta-learner approach. By leveraging various machine learning models and combining their strengths, this project aims to enhance the accuracy and reliability of PCOS diagnosis.
 
+![image](https://github.com/vishnuvemuri/Advancements-in-PCOS-Detection-A-Multi-Framework-Evaluation-and-Meta-Learner-Approach-/assets/96485620/812b5308-f7ae-4a51-81b6-bc1bef34d0a7)
+
 Features
+
 Multi-Framework Evaluation: Implements and evaluates multiple machine learning frameworks to identify the best-performing models.
 Meta-Learner Approach: Combines the outputs of different models using a meta-learner for improved prediction accuracy.
 Comprehensive Data Analysis: Includes data preprocessing, feature selection, and exploratory data analysis.
 Model Training and Evaluation: Provides scripts for training individual models and the meta-learner, along with performance evaluation metrics.
 Visualization Tools: Offers tools for visualizing data distributions, feature importance, and model performance.
 User-Friendly Interface: Features an easy-to-use interface for running experiments and analyzing results.
+
 Installation
+
 Clone the Repository:
 
 sh
@@ -78,8 +84,15 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature-branch).
 Create a new Pull Request.
+
 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+Output:
+
+![image](https://github.com/vishnuvemuri/Advancements-in-PCOS-Detection-A-Multi-Framework-Evaluation-and-Meta-Learner-Approach-/assets/96485620/736100f2-3f48-45a6-aea9-a3478d266e22)
+
 
 If you need more details just download the Powerpoint
 
